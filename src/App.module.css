@@ -1,0 +1,17 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    align-self: flex-start;
+    border: 2px solid black;
+    border-radius: 10px;
+    padding: 10px 20px;
+    box-shadow: 2px 5px 10px 2px rgba(0, 0, 0, .4);
+    width: 60%;
+
+    margin: 140px auto;
+    background: white;
+
+}
+.App h1 {
+    border-bottom: 1px solid black;
+}
